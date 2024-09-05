@@ -31,9 +31,9 @@ int main(){
     string s2 =  "   fly me   to   the moon  ";
     string s3 =  "luffy is still joyboy";
 
-    cout << " length of the last word: "<< solution.lengthOfLastWord(s1)<<endl;
-    cout << " length of the last word: "<< solution.lengthOfLastWord(s2)<<endl;
-    cout << " length of the last word: "<< solution.lengthOfLastWord(s3)<<endl;
+    cout << " length of the last word: "<<solution.lengthOfLastWord(s1)<<endl;
+    cout << " length of the last word: "<<solution.lengthOfLastWord(s2)<<endl;
+    cout << " length of the last word: "<<solution.lengthOfLastWord(s3)<<endl;
 
 
 return 0;
